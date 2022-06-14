@@ -6,13 +6,22 @@
 .sidebar{
     background-color: black;
     color: wheat;
-    width: 20vw;
+    width: 10vw;
     font-family: 'Fira Sans',sans-serif;
     
 }
+.sidebar nav{
+    padding: 45px;
+
+}
+.sidebar nav li{
+    list-style: none;
+    font-size: 20px;
+    padding: 33px 0;
+}
 .main{
     background-color: yellow;
-    width: 80vw;
+    width: 90vw;
 }
 .container{
     display: flex;
