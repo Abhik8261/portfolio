@@ -8,7 +8,7 @@
     color: wheat;
     width: 10vw;
     font-family: 'Fira Sans',sans-serif;
-    
+    height: 100vh;
 }
 .sidebar nav{
     padding: 45px;
@@ -25,4 +25,16 @@
 }
 .container{
     display: flex;
+}
+.infoContainer{
+    background-color: rgb(237, 26, 163);
+    height: 45vh;
+    width: 80vw;
+    margin: 144px auto;
+    display:flex;
+    justify-content: space-around;
+}
+.devpic img{
+    width: 12vw;
+    
 }
