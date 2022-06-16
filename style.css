@@ -5,9 +5,9 @@
     padding: 0;
 }
 .sidebar{
-    background-color: grey;
+    background-color: rgb(223, 216, 216);
     /* color: wheat; */
-    width: 15vw;
+    width: 433px;
     font-family: 'Fira Sans',sans-serif;
     height: 107vh;
 }
@@ -19,6 +19,10 @@
     list-style: none;
     font-size: 22px;
     padding: 33px 0;
+}
+.sidebar nav li a{
+    text-decoration: none;
+    color:black;
 }
 .main{
     /* background-color: yellow; */
@@ -41,26 +45,30 @@
     justify-content: center;
     flex-direction: column;
     font-family: 'Source Code Pro',monospace;
+    
 }
 .hello{
 font-size: 65px;
-
+margin: 0px 44px;
 }
 .name{
     font-size: 50px;
     font-weight: bold;
     font-family: 'Fira Sans',sans-serif;
-
+    margin: 0px 44px;
 }
 .about{
 font-size: 40px;
+margin: 0px 44px;
 }
 .moreabout{
     font-family: 'Fira Sans',sans-serif;
     font-size: 22px;
+    margin: 0px 44px;
 }
 .buttons{
-    margin-top: 34px;
+   
+    margin: 34px 44px;
 }
 .buttons button{
 background-color: dodgerblue;
