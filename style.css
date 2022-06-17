@@ -94,17 +94,33 @@ cursor: pointer;
 .contactform{
     font-family: 'Fira Sans',sans-serif;
     padding-top: 144px;
-    padding: 0 34px ;
+    padding: 60px 34px ;
 }
-.contactform h1{
+.contactform h2{
 font-family: 'Source Code Pro',monospace;
 text-align: center;
 }
-.contactform form div{
-    padding: 27px 0;
+.contactform div{
+    padding: 17px 0;
+}
+.contactform form div input{
+    padding: 3px ;
+     width: 25vw; 
+    border-radius: 5px;
+    margin: 6px 0 0 0;
+    
 }
 #emailHelp{
-    font-size: 8px;
+    font-size: 12px;
     color: midnightblue;
     margin: 0 5px;
+    padding: 3px 0 0 0;
+}
+.form-check{
+    flex-direction: row;
+    
+}
+#form-check-input{
+width: 18px;
+margin: 3px 0;
 }
