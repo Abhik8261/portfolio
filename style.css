@@ -89,3 +89,22 @@ cursor: pointer;
     height: 58vh;
     
 }
+
+
+.contactform{
+    font-family: 'Fira Sans',sans-serif;
+    padding-top: 144px;
+    padding: 0 34px ;
+}
+.contactform h1{
+font-family: 'Source Code Pro',monospace;
+text-align: center;
+}
+.contactform form div{
+    padding: 27px 0;
+}
+#emailHelp{
+    font-size: 8px;
+    color: midnightblue;
+    margin: 0 5px;
+}
