@@ -124,3 +124,17 @@ text-align: center;
 width: 18px;
 margin: 3px 0;
 }
+.blogitem{
+    margin: 20px;
+    font-family:'Fira Sans' sans-serif;
+}
+.blogitem p{
+font-family: 'Source Code Pro ',monospace;
+}
+.blogitem h2{
+
+}
+.blogcontainer h1{
+    font-family:'Fira Sans' sans-serif;
+    margin: 23px;
+}
